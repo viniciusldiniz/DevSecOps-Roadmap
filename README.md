@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Stars](https://img.shields.io/github/stars/viniciusldiniz/DevSecOps-Roadmap?style=social)](https://github.com/viniciusldiniz/DevSecOps-Roadmap)
 
-> **"Segurança não é uma fase — é parte de cada linha de código."**
+> **"Segurança não é uma fase, é parte de cada linha de código."**
 > Este repositório reúne trilhas, ferramentas, cursos gratuitos e projetos práticos para quem quer integrar segurança ao pipeline de DevOps.
 
 [📚 Trilha de Estudos](#-trilha-de-estudos) • [🎓 Cursos Gratuitos](#-cursos-gratuitos) • [🛠️ Ferramentas](#️-ferramentas-essenciais) • [📜 Certificações](#-certificações) • [🤝 Contribuir](#-como-contribuir)
